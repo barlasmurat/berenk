@@ -8,10 +8,10 @@
    ========================================================================= */
 window.BERENK_CONFIG = {
   // Supabase → Project Settings → API → Project URL
-  url: '',
+  url: 'https://rtrqowhcdpvvmblxwnhp.supabase.co',
 
   // Aynı sayfadaki "anon public" anahtarı (gizli değildir, tarayıcıda görünür)
-  anonKey: '',
+  anonKey: 'sb_publishable_y1TnYYBnoEEfM54DdIMnTA_ClA5hhNM',
 
   // İsteğe bağlı Google Analytics 4 ölçüm kimliği, örn: 'G-XXXXXXXXXX'
   gaOlcumId: ''
